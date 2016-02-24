@@ -16,6 +16,8 @@ public class mainActivity extends AppCompatActivity {
 
         // zmiana by Artur
 
+        //zmiana by Adam trzy 20:16
+
         // zmiana 2 lepsza by Artur
     }
 }
