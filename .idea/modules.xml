@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ZPIProject.iml" filepath="$PROJECT_DIR$/ZPIProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ZPIrepo.iml" filepath="$PROJECT_DIR$/ZPIrepo.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
