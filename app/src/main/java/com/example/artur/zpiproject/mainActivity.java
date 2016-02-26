@@ -25,6 +25,5 @@ public class mainActivity extends AppCompatActivity {
 
         // veni vidi vici
 
-        // Wiedza nie mydli siê
     }
 }
